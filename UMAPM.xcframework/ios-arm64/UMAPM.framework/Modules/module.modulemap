@@ -1,0 +1,6 @@
+framework module UMAPM {
+  umbrella header "UMAPM.h"
+  export *
+
+  module * { export * }
+}
